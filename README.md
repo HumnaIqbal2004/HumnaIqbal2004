@@ -11,7 +11,7 @@ I try to build all sorts of ideas that pop into my head!<br>
 
 
 ## 🌐 Reach Me At
--humnaiqbal2017@gmail.com
+- humnaiqbal2017@gmail.com
 
 
 # 💻 Tech
