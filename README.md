@@ -1,5 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Humna👋 
+🎓Computer Science student @ International University of Applied Sciences
+💼 Aspiring Software Engineer
 
+I try to build all sorts of ideas that pop into my head!
+
+### 🛠️Tech & Skills
+-Languages: Java, Python, SQL, HTML/CSS, JavaScript, React 
+-Software: MySQL, Git & Github, VS Code, Eclipse and IntelliJ 
+
+### 🔭Currently Working On
+-Full-stack side projects
+
+### 🌱Learning
+-Django, Docker
+
+## 📫Reach Me At
+-Gmail: humnaiqbal2017@gmail.com
 <!--
 **HumnaIqbal2004/HumnaIqbal2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
