@@ -1,11 +1,11 @@
 ## Hi there, I'm Humna👋 
-🎓Computer Science student @ International University of Applied Sciences
+🎓Computer Science student @ International University of Applied Sciences<br>
 💼 Aspiring Software Engineer
 
 I try to build all sorts of ideas that pop into my head!
 
 ### 🛠️Tech & Skills
--Languages: Java, Python, SQL, HTML/CSS, JavaScript, React 
+-Languages: Java, Python, SQL, HTML/CSS, JavaScript, React <br>
 -Software: MySQL, Git & Github, VS Code, Eclipse and IntelliJ 
 
 ### 🔭Currently Working On
