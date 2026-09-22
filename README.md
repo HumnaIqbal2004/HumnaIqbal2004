@@ -1,6 +1,7 @@
 
 # Hi, I'm Humna👋<br>
 🎓Computer Science student @ International University of Applied Sciences<br>
+
 💼 Aspiring Software Engineer<br>
 I try to build all sorts of ideas that pop into my head!<br>
 
