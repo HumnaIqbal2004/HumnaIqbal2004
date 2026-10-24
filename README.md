@@ -6,7 +6,7 @@
 I try to build all sorts of ideas that pop into my head!<br>
 
 🔭Currently Working On<br>
--Full-stack side projects
+-Cyber security concepts
 
 🌱Learning<br>-Django, Docker
 
